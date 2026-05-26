@@ -8,14 +8,14 @@ last_name: Antonioni
 
 # Username (this should match the folder name)
 authors:
-  - Chavez
+  - Antonioni
 
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Senior Data Scientist
+role: x
 
 # Organizations/Affiliations
 organizations:
@@ -26,10 +26,10 @@ organizations:
 bio: 
 
 interests:
-  - Machine Learning Algorithms 
-  - Generative Models 
-  - Inverse problems in Cardiology
-  - Cloud Engineering 
+  - x
+  - x
+  - x
+  - x
 
 
 # Social/Academic Networking
@@ -39,13 +39,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:carloseduardo.chavez1@vodafone.com'
+    link: 'mailto:alberto.antonioni@uc3m.es'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=C6QnaNYAAAAJ&hl=en
-  - icon: linkedin
+    link: https://scholar.google.com/citations?user=SRjHASMAAAAJ
+  - icon: orcid
     icon_pack: fab
-    link: https://www.linkedin.com/in/carlosebch/ 
+    link: https://orcid.org/0000-0002-5788-3348
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,4 +62,4 @@ user_groups:
 
 ---
 
-Carlos E. Borges Chávez obtained his Bachelor's Degree in Applied Mathematics from Universidad Simón Bolivar (Venezuela) in 2009 and earned his PhD in Mathematical Engineering from Universidad Carlos III de Madrid in 2017. Since 2017, he is a Specialist Data Scientist working at the Vodafone Group. 
+Alberto Antioni .... write
